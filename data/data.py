@@ -2,19 +2,6 @@
 #This file also contains the solutions, where a 0 represents an empty field and 1 stands for the cat.
 #The data is based from real app puzzles, which I have collected and transformed into matrices.
 
-puzzles = {
-    "165": puzzle_165,
-    "166": puzzle_166,
-    "170": puzzle_170,
-    "174": puzzle_174,
-    "177": puzzle_177,
-    "178": puzzle_178,
-    "179": puzzle_179,
-    "180": puzzle_180,
-    "181": puzzle_181,
-    "182": puzzle_182
-}
-
 puzzle_165 = {
     "id": "165",
     "board_size": 10,
@@ -399,7 +386,7 @@ puzzle_181 = {
     [0, 0, 0, 0, 0, 0, 0, 1]
 ],
 
-    "fixed_cats": [],
+    "fixed_cats": [1],
 
     "validation": {
         "dimensions_checked": False,
