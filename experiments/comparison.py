@@ -131,3 +131,61 @@ def plot_overall_comparison(comparison):
 
     plt.tight_layout()
     plt.show()
+
+def plot_search_nodes(comparison):
+    import matplotlib.pyplot as plt
+    import numpy as np
+
+    puzzle_ids = comparison["Puzzle ID"].astype(str)
+
+    basic_calls = comparison["Basic Calls"]
+    mrv_calls = comparison["MRV Calls"]
+
+    nodes_saved = basic_calls - mrv_calls
+    total_basic = basic_calls.sum()
+    total_mrv = mrv_calls.sum()
+    total_saved = nodes_saved.sum()
+
+    reduction = (total_saved / total_basic) * 100
+
+    x = np.arange(len(puzzle_ids))
+    width = 0.38
+
+    fig, ax = plt.subplots(figsize=(12, 6))
+
+    bars_basic = ax.bar(
+        x - width / 2,
+        basic_calls,
+        width,
+        label="Basic Backtracking"
+    )
+
+    bars_mrv = ax.bar(
+        x + width / 2,
+        mrv_calls,
+        width,
+        label="MRV"
+    )
+
+    ax.set_yscale("log")
+    ax.set_xlabel("Puzzle ID")
+    ax.set_ylabel("Number of Recursive Calls (log scale)")
+    ax.set_title("Search Nodes: Basic Backtracking vs MRV")
+    ax.set_xticks(x)
+    ax.set_xticklabels(puzzle_ids)
+    ax.legend()
+    ax.grid(axis="y", alpha=0.3)
+
+    ax.text(
+        0.98,
+        0.95,
+        f"Total nodes saved: {total_saved:,}\n"
+        f"Reduction: {reduction:.2f}%",
+        transform=ax.transAxes,
+        ha="right",
+        va="top",
+        bbox=dict(boxstyle="round", facecolor="white", alpha=0.8)
+    )
+
+    plt.tight_layout()
+    plt.show()
