@@ -386,7 +386,8 @@ puzzle_181 = {
     [0, 0, 0, 0, 0, 0, 0, 1]
 ],
 
-    "fixed_cats": [1],
+    #There was already a placed cat from the beginning. I have noted the coordinates
+    "fixed_cats": [(6, 5)],
 
     "validation": {
         "dimensions_checked": False,
