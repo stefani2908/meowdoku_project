@@ -9,6 +9,7 @@ This project investigates the computational efficiency of two constraint-based s
 - `meowdoku_part_1.ipynb`: Mathematical foundations, dataset, and validation.
 - `meowdoku_part_2.ipynb`: Basic backtracking implementation and benchmarking.
 - `meowdoku_part_3.ipynb`: MRV implementation, benchmarking, and comparison.
+- `meowdoku_part_4.ipynb`: conclusion and references.
 - `data/`: Puzzle matrices, screenshots, and benchmark results.
 - `solver/`: Search algorithm implementations.
 - `experiments/`: Benchmarking, validation, and comparison functions.
@@ -25,5 +26,6 @@ Run the notebooks in order:
 1. `meowdoku_part_1.ipynb`
 2. `meowdoku_part_2.ipynb`
 3. `meowdoku_part_3.ipynb`
+4. `meowdoku_part_4.ipynb`
 
 Run them from the project root directory so that the relative file paths work correctly.
