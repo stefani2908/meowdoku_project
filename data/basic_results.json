@@ -1,270 +1,270 @@
 {
     "165": [
         {
-            "execution_time": 0.008419666904956102,
+            "execution_time": 0.013180708047002554,
             "recursive_calls": 1143,
             "backtracks": 1132
         },
         {
-            "execution_time": 0.005702040973119438,
+            "execution_time": 0.013202915899455547,
             "recursive_calls": 1143,
             "backtracks": 1132
         },
         {
-            "execution_time": 0.005622458062134683,
+            "execution_time": 0.012141249957494438,
             "recursive_calls": 1143,
             "backtracks": 1132
         },
         {
-            "execution_time": 0.005499458988197148,
+            "execution_time": 0.01608174992725253,
             "recursive_calls": 1143,
             "backtracks": 1132
         },
         {
-            "execution_time": 0.006814416963607073,
+            "execution_time": 0.013065041974186897,
             "recursive_calls": 1143,
             "backtracks": 1132
         }
     ],
     "166": [
         {
-            "execution_time": 0.010794999892823398,
+            "execution_time": 0.02695704100187868,
             "recursive_calls": 1461,
             "backtracks": 1450
         },
         {
-            "execution_time": 0.008709374931640923,
+            "execution_time": 0.0152325420640409,
             "recursive_calls": 1461,
             "backtracks": 1450
         },
         {
-            "execution_time": 0.007192041026428342,
+            "execution_time": 0.015897874953225255,
             "recursive_calls": 1461,
             "backtracks": 1450
         },
         {
-            "execution_time": 0.009427084005437791,
+            "execution_time": 0.018079166999086738,
             "recursive_calls": 1461,
             "backtracks": 1450
         },
         {
-            "execution_time": 0.009390207938849926,
+            "execution_time": 0.013709167018532753,
             "recursive_calls": 1461,
             "backtracks": 1450
         }
     ],
     "170": [
         {
-            "execution_time": 0.013513707905076444,
+            "execution_time": 0.02093183295801282,
             "recursive_calls": 2603,
             "backtracks": 2592
         },
         {
-            "execution_time": 0.012078542029485106,
+            "execution_time": 0.02090695803053677,
             "recursive_calls": 2603,
             "backtracks": 2592
         },
         {
-            "execution_time": 0.012163583072833717,
+            "execution_time": 0.020864458056166768,
             "recursive_calls": 2603,
             "backtracks": 2592
         },
         {
-            "execution_time": 0.012804875033907592,
+            "execution_time": 0.023467291961424053,
             "recursive_calls": 2603,
             "backtracks": 2592
         },
         {
-            "execution_time": 0.012562917079776525,
+            "execution_time": 0.02268754201941192,
             "recursive_calls": 2603,
             "backtracks": 2592
         }
     ],
     "174": [
         {
-            "execution_time": 0.012900957954116166,
+            "execution_time": 0.01911758293863386,
             "recursive_calls": 2575,
             "backtracks": 2565
         },
         {
-            "execution_time": 0.015074791968800128,
+            "execution_time": 0.019842374953441322,
             "recursive_calls": 2575,
             "backtracks": 2565
         },
         {
-            "execution_time": 0.011096542002633214,
+            "execution_time": 0.01910229097120464,
             "recursive_calls": 2575,
             "backtracks": 2565
         },
         {
-            "execution_time": 0.011186292045749724,
+            "execution_time": 0.022895333007909358,
             "recursive_calls": 2575,
             "backtracks": 2565
         },
         {
-            "execution_time": 0.010611292091198266,
+            "execution_time": 0.019581374945119023,
             "recursive_calls": 2575,
             "backtracks": 2565
         }
     ],
     "177": [
         {
-            "execution_time": 0.07520975009538233,
+            "execution_time": 0.13332200003787875,
             "recursive_calls": 17694,
             "backtracks": 17684
         },
         {
-            "execution_time": 0.10143770801369101,
+            "execution_time": 0.12317791697569191,
             "recursive_calls": 17694,
             "backtracks": 17684
         },
         {
-            "execution_time": 0.07907816604711115,
+            "execution_time": 0.11758224992081523,
             "recursive_calls": 17694,
             "backtracks": 17684
         },
         {
-            "execution_time": 0.07637270807754248,
+            "execution_time": 0.11514670797623694,
             "recursive_calls": 17694,
             "backtracks": 17684
         },
         {
-            "execution_time": 0.08330779208336025,
+            "execution_time": 0.1198254160117358,
             "recursive_calls": 17694,
             "backtracks": 17684
         }
     ],
     "178": [
         {
-            "execution_time": 0.006031249999068677,
+            "execution_time": 0.008864165982231498,
             "recursive_calls": 1230,
             "backtracks": 1219
         },
         {
-            "execution_time": 0.006392749957740307,
+            "execution_time": 0.008957999991253018,
             "recursive_calls": 1230,
             "backtracks": 1219
         },
         {
-            "execution_time": 0.005634041968733072,
+            "execution_time": 0.009805542067624629,
             "recursive_calls": 1230,
             "backtracks": 1219
         },
         {
-            "execution_time": 0.005798624944873154,
+            "execution_time": 0.009990875027142465,
             "recursive_calls": 1230,
             "backtracks": 1219
         },
         {
-            "execution_time": 0.006477124989032745,
+            "execution_time": 0.008634582976810634,
             "recursive_calls": 1230,
             "backtracks": 1219
         }
     ],
     "179": [
         {
-            "execution_time": 0.00029087497387081385,
+            "execution_time": 0.00042754109017550945,
             "recursive_calls": 62,
             "backtracks": 51
         },
         {
-            "execution_time": 0.00029704091139137745,
+            "execution_time": 0.00042587495408952236,
             "recursive_calls": 62,
             "backtracks": 51
         },
         {
-            "execution_time": 0.00029520795214921236,
+            "execution_time": 0.00042508309707045555,
             "recursive_calls": 62,
             "backtracks": 51
         },
         {
-            "execution_time": 0.0002959170378744602,
+            "execution_time": 0.0004467499675229192,
             "recursive_calls": 62,
             "backtracks": 51
         },
         {
-            "execution_time": 0.0002941250568255782,
+            "execution_time": 0.00042762502562254667,
             "recursive_calls": 62,
             "backtracks": 51
         }
     ],
     "180": [
         {
-            "execution_time": 0.013823208981193602,
+            "execution_time": 0.01987745799124241,
             "recursive_calls": 2831,
             "backtracks": 2820
         },
         {
-            "execution_time": 0.013201041030697525,
+            "execution_time": 0.019681208999827504,
             "recursive_calls": 2831,
             "backtracks": 2820
         },
         {
-            "execution_time": 0.013460583053529263,
+            "execution_time": 0.019463291973806918,
             "recursive_calls": 2831,
             "backtracks": 2820
         },
         {
-            "execution_time": 0.013395624933764338,
+            "execution_time": 0.01979670801665634,
             "recursive_calls": 2831,
             "backtracks": 2820
         },
         {
-            "execution_time": 0.012839208007790148,
+            "execution_time": 0.01962604105938226,
             "recursive_calls": 2831,
             "backtracks": 2820
         }
     ],
     "181": [
         {
-            "execution_time": 8.716597221791744e-05,
+            "execution_time": 0.00013504200614988804,
             "recursive_calls": 28,
             "backtracks": 19
         },
         {
-            "execution_time": 8.575001265853643e-05,
+            "execution_time": 0.00013287493493407965,
             "recursive_calls": 28,
             "backtracks": 19
         },
         {
-            "execution_time": 8.450006134808064e-05,
+            "execution_time": 0.00013237493112683296,
             "recursive_calls": 28,
             "backtracks": 19
         },
         {
-            "execution_time": 0.0001355829881504178,
+            "execution_time": 0.00013316702097654343,
             "recursive_calls": 28,
             "backtracks": 19
         },
         {
-            "execution_time": 8.44169408082962e-05,
+            "execution_time": 0.00013133406173437834,
             "recursive_calls": 28,
             "backtracks": 19
         }
     ],
     "182": [
         {
-            "execution_time": 0.0021191249834373593,
+            "execution_time": 0.0036631670081987977,
             "recursive_calls": 427,
             "backtracks": 416
         },
         {
-            "execution_time": 0.001951000071130693,
+            "execution_time": 0.0032578749815002084,
             "recursive_calls": 427,
             "backtracks": 416
         },
         {
-            "execution_time": 0.001969458069652319,
+            "execution_time": 0.003042917000129819,
             "recursive_calls": 427,
             "backtracks": 416
         },
         {
-            "execution_time": 0.0020047910511493683,
+            "execution_time": 0.003155332989990711,
             "recursive_calls": 427,
             "backtracks": 416
         },
         {
-            "execution_time": 0.0021944999461993575,
+            "execution_time": 0.003058292088098824,
             "recursive_calls": 427,
             "backtracks": 416
         }
